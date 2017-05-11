@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>ABC News: Top Stories</title>
+/head
+<body>
+ <h1> <a href=http://abcnews.go.com/><title>ABC News: Top Stories</title>
+</a>+ =</h1>
+ <p>
+ <table>
+  <th> Date </th>
+  <th> Source <th>
+  <th> News <th>
+ </tr>
